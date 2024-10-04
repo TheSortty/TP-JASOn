@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Apellido": "García Márquez",
+    "Nombre": "Gabriel",
+    "Dni": "12345678",
+    "Libros": [
+      {
+        "Nombre": "Cien Años de Soledad",
+        "AnioPublicacion": 1967,
+        "Editorial": "Sudamericana"
+      },
+      {
+        "Nombre": "El Amor en los Tiempos del Cólera",
+        "AnioPublicacion": 1985,
+        "Editorial": "Sudamericana"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Apellido": "Orwell",
+    "Nombre": "George",
+    "Dni": "87654321",
+    "Libros": [
+      {
+        "Nombre": "1984",
+        "AnioPublicacion": 1949,
+        "Editorial": "Secker & Warburg"
+      },
+      {
+        "Nombre": "Rebelión en la Granja",
+        "AnioPublicacion": 1945,
+        "Editorial": "Secker & Warburg"
+      }
+    ]
+  }
+]

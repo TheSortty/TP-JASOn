@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\TpJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|c:\\users\\lucas\\source\\repos\\tpjson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|c:\\users\\lucas\\source\\repos\\tpjson\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|c:\\users\\lucas\\source\\repos\\tpjson\\escritor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A50AEB2-EC45-4E04-8006-F4D93F7FEEC8}|TpJson.csproj|solutionrelative:escritor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TpJson\\Libro.cs",
+              "RelativeDocumentMoniker": "Libro.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TpJson\\Libro.cs",
+              "RelativeToolTip": "Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:28:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Escritor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TpJson\\Escritor.cs",
+              "RelativeDocumentMoniker": "Escritor.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TpJson\\Escritor.cs",
+              "RelativeToolTip": "Escritor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:28:08.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\TpJson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\TpJson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:22:57.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
